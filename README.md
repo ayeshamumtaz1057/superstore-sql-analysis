@@ -8,7 +8,6 @@ SQL-based exploratory analysis of retail sales data to uncover business insights
 
 ---
 
-
 ## 📌 Business Context
 
 Retail companies generate large volumes of transactional data but often struggle to translate it into actionable insight. This project simulates a real-world scenario: analyzing a superstore's sales dataset to answer key business questions that a data analyst might be asked by a sales or operations manager — such as which products drive the most revenue, who the top customers are, and which regions are underperforming.
