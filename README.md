@@ -1,6 +1,6 @@
 # 🛒 Superstore Sales Analysis (SQL)
 
-SQL-based exploratory analysis of retail sales data to uncover business insights around revenue, top products, customer value, and regional performance.
+SQL-based exploratory analysis of retail sales data to uncover business insights around revenue, top products, customer value, and regional performance
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
